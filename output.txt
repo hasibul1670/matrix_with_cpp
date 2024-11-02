@@ -1,5 +1,1 @@
-aaabbcsda : 3
-b : 2
-c : 1
-d : 1
-s : 1
+will take number

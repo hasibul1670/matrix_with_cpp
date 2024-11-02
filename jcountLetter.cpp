@@ -5,7 +5,6 @@ int main()
 {
     string N;
     cin >> N;
-    cout<<N;
     int f[26] = {0};
     int len = N.size();
 
